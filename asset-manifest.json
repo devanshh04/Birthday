@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Birthday/static/css/main.f5d6c642.css",
+    "main.js": "/Birthday/static/js/main.39890d34.js",
+    "static/media/myMusic.mp3": "/Birthday/static/media/myMusic.dbf72096730981746ac1.mp3",
+    "static/media/imageForSlideGame.jpeg": "/Birthday/static/media/imageForSlideGame.8030d90ba1b79bc2615b.jpeg",
+    "static/media/9.jpeg": "/Birthday/static/media/9.f894f7f5864a3bb8e21a.jpeg",
+    "static/media/4.jpeg": "/Birthday/static/media/4.ef3b5667e5e792e61951.jpeg",
+    "static/media/1.jpeg": "/Birthday/static/media/1.f04d45414831a6adc0bc.jpeg",
+    "static/media/7.jpeg": "/Birthday/static/media/7.ee460183635fa880d3ed.jpeg",
+    "static/media/6.jpeg": "/Birthday/static/media/6.cae5338e760353a1fe32.jpeg",
+    "static/media/12.jpeg": "/Birthday/static/media/12.4200145858074d6a0ca5.jpeg",
+    "static/media/8.jpeg": "/Birthday/static/media/8.c0e2c5998da0d6289d60.jpeg",
+    "static/media/5.jpeg": "/Birthday/static/media/5.a10b8eff54629a491f57.jpeg",
+    "static/media/2.jpeg": "/Birthday/static/media/2.510834d2dc6102213eb6.jpeg",
+    "static/media/10.jpeg": "/Birthday/static/media/10.201a3da3c8463fe0def3.jpeg",
+    "static/media/3.jpeg": "/Birthday/static/media/3.bb0dcff510e78d3c4bfa.jpeg",
+    "static/media/11.jpeg": "/Birthday/static/media/11.f3ddb2f92ac4c4d6ede8.jpeg",
+    "index.html": "/Birthday/index.html",
+    "main.f5d6c642.css.map": "/Birthday/static/css/main.f5d6c642.css.map",
+    "main.39890d34.js.map": "/Birthday/static/js/main.39890d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d6c642.css",
+    "static/js/main.39890d34.js"
+  ]
+}
